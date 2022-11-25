@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WarriorAttHell
+- 👋 Hi, My name is Dean
 - 👀 I’m interested in all about software development and cybersecurity.
 - 🌱 I’m currently learning softwares games prototiping.
 - 💞️ I’m looking to collaborate on with the prejoetos that I developed throughout my college.
