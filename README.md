@@ -4,8 +4,8 @@
 
 **Desenvolvedor Front-end**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/dean-dadalt-dev])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([mailto:dean.dadalt6@gmail.com])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dean-dadalt-dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dean.dadalt6@gmail.com)
 
 <p align="center">
 Transformando requisitos complexos em interfaces fluidas, responsivas e de alto desempenho.
