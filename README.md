@@ -2,7 +2,7 @@
 
 # Dean Dadalt
 
-**Desenvolvedor Front-end Júnior | Engenharia da Computação**
+**Desenvolvedor Front-end**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dean-dadalt-dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dean.dadalt6@gmail.com)
@@ -56,18 +56,6 @@ Aqui estão as ferramentas que utilizo para dar vida às interfaces, organizadas
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
 </p>
-
----
-
-### 🎓 Formação Acadêmica (A Base Lógica)
-
-Minha trajetória acadêmica e técnica fundamenta minha capacidade de resolver problemas complexos.
-
-- 🎓 **Engenharia da Computação** — UNOESC (Em andamento)
-- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — UNOESC
-- 🎓 **Curso de Formação de Desenvolvedores** — FAPESC/UNOESC
-- 🎓 **Técnico em Informática (Foco em Software)** — SENAI
-
 ---
 
 <div align="center">
