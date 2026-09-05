@@ -60,17 +60,17 @@ Meu objetivo é continuar evoluindo como engenheiro de software, aprofundando co
 
 <div align="left">
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.oracle.com/database/">
-<img src="https://camo.githubusercontent.com/57f8644bda1d6def5cd32a4fd75f5a11501cc2d90aea1e752257f0c8d5b80f31/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f7261636c652d4638303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6f7261636c65266c6f676f436f6c6f723d7768697465" alt="Oracle" data-canonical-src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" style="max-width: 100%;">
-</a>
+### 🗄️ Banco de Dados
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.postgresql.org/">
-<img src="https://camo.githubusercontent.com/9e8a818563f739db24e88bc3e1970896b4eccc8bef8ec620b05714e96e8f8e11/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3333363739313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" alt="PostgreSQL" data-canonical-src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" style="max-width: 100%;">
-</a>
+<div align="left">
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.microsoft.com/sql-server/">
-<img src="https://camo.githubusercontent.com/150a0cf3eed281925d92a379cb08864a4b6b4c7578373ca8b66dd5b6fc2e5f2a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c5f5365727665722d4343323932373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d73716c2d736572766572266c6f676f436f6c6f723d7768697465" alt="SQL Server" data-canonical-src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&amp;logo=microsoft-sql-server&amp;logoColor=white" style="max-width: 100%;">
-</a>
+<a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"></a>
+&nbsp;
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+&nbsp;
+<a href="https://www.microsoft.com/sql-server/"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"></a>
+
+</div>
 
 </div>
 
@@ -81,12 +81,13 @@ Meu objetivo é continuar evoluindo como engenheiro de software, aprofundando co
 <div align="center">
 
 <a href="https://www.linkedin.com/in/dean-dadalt-dev">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 &nbsp;&nbsp;
 
 <a href="mailto:dean.dadalt6@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
