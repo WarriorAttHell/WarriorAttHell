@@ -56,9 +56,7 @@ Meu objetivo é continuar evoluindo como engenheiro de software, aprofundando co
 
 </div>
 
-### 🗄️ Banco de Dados
-
-<div align="left">
+---
 
 ### 🗄️ Banco de Dados
 
