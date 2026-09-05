@@ -78,16 +78,10 @@ Meu objetivo é continuar evoluindo como engenheiro de software, aprofundando co
 
 <div align="left">
 
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
 <a href="https://www.oracle.com/database/">
-<img src="https://cdn.simpleicons.org/oracle/F80000" width="50"/>
-</a>
-
-<a href="https://www.postgresql.org/">
-<img src="https://skillicons.dev/icons?i=postgres" width="50"/>
-</a>
-
-<a href="https://www.microsoft.com/sql-server/">
-<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="50"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </a>
 
 </div>
