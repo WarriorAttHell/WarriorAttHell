@@ -107,6 +107,9 @@ quanto o desenvolvimento de APIs, regras de negócio e integração com bancos d
 <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </a>
+<a href="https://www.microsoft.com/sql-server" target="_blank">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</a>
 
 </p>
 
