@@ -32,7 +32,7 @@ Meu objetivo é continuar evoluindo como engenheiro de software, aprofundando co
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,symfony,angular,typescript,nodejs,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,symfony,angular,typescript,nodejs" />
 
 </div>
 
@@ -98,21 +98,10 @@ Meu objetivo é continuar evoluindo como engenheiro de software, aprofundando co
 <a href="https://www.linkedin.com/in/dean-dadalt-dev">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="mailto:dean.dadalt6@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
-</a>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/dean-dadalt-dev">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-
-<a href="mailto:dean.dadalt6@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
