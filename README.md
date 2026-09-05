@@ -53,10 +53,7 @@ Aqui estão as ferramentas que utilizo para dar vida às interfaces, organizadas
   <a href="https://angular.io/" target="_blank">
     <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
   </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
-  </a>
-</p>
+</p>>
 
 #### 🎨 Estilização & UI
 <p align="left">
