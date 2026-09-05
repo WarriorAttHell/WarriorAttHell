@@ -35,19 +35,19 @@ Meu objetivo é continuar evoluindo como engenheiro de software, aprofundando co
 <a href="https://www.php.net/">
 <img src="https://skillicons.dev/icons?i=php" width="65"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://symfony.com/">
 <img src="https://skillicons.dev/icons?i=symfony" width="65"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://angular.io/">
 <img src="https://skillicons.dev/icons?i=angular" width="65"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/">
 <img src="https://skillicons.dev/icons?i=typescript" width="65"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://nodejs.org/">
 <img src="https://skillicons.dev/icons?i=nodejs" width="65"/>
 </a>
@@ -78,15 +78,17 @@ Meu objetivo é continuar evoluindo como engenheiro de software, aprofundando co
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=oracle,postgres,mysql" />
+<a href="https://www.oracle.com/database/">
+<img src="https://cdn.simpleicons.org/oracle/F80000" width="50"/>
+</a>
 
-</div>
+<a href="https://www.postgresql.org/">
+<img src="https://skillicons.dev/icons?i=postgres" width="50"/>
+</a>
 
-### 🔧 Ferramentas & Infraestrutura
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=git,docker,composer,npm,postman" />
+<a href="https://www.microsoft.com/sql-server/">
+<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="50"/>
+</a>
 
 </div>
 
