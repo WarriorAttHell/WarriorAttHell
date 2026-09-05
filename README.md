@@ -76,21 +76,6 @@ Meu objetivo é continuar evoluindo como engenheiro de software, aprofundando co
 
 ---
 
-## 🧠 Práticas & Conceitos
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square"/>
-<img src="https://img.shields.io/badge/SOLID-6A1B9A?style=flat-square"/>
-<img src="https://img.shields.io/badge/OOP-00599C?style=flat-square"/>
-<img src="https://img.shields.io/badge/MVC-444444?style=flat-square"/>
-<img src="https://img.shields.io/badge/Web%20Services-0077B5?style=flat-square"/>
-<img src="https://img.shields.io/badge/ERP-455A64?style=flat-square"/>
-
-</div>
-
----
-
 ## 📫 Contato
 
 <div align="center">
