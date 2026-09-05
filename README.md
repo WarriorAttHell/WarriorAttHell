@@ -16,13 +16,13 @@ Unindo a lógica da analise e desenvolvimento de sistemas com a sensibilidade do
 
 ### 💻 No que atuo hoje
 
-Atualmente, foco no ecossistema **Full Stack (Vue.js + PHP Laravel)** em ambiente corporativo,
+Atualmente, foco no ecossistema **Full Stack (Angular + PHP Symfony)** em ambiente corporativo,
 o que me permite entender o fluxo completo da informação e criar Front-ends mais integrados e eficientes.
 
 <div align="center">
-  <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" /></a>
+  <a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" /></a>
   <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
-  <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /</a>
+  <a href="https://symfony.com/" target="_blank"><img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" /></a>
 </div>
 
 </div>
