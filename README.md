@@ -35,19 +35,19 @@ Meu objetivo é continuar evoluindo como engenheiro de software, aprofundando co
 <a href="https://www.php.net/">
 <img src="https://skillicons.dev/icons?i=php" width="65"/>
 </a>
-&nbsp;&nbsp;
+
 <a href="https://symfony.com/">
 <img src="https://skillicons.dev/icons?i=symfony" width="65"/>
 </a>
-&nbsp;&nbsp;
+
 <a href="https://angular.io/">
 <img src="https://skillicons.dev/icons?i=angular" width="65"/>
 </a>
-&nbsp;&nbsp;
+
 <a href="https://www.typescriptlang.org/">
 <img src="https://skillicons.dev/icons?i=typescript" width="65"/>
 </a>
-&nbsp;&nbsp;
+
 <a href="https://nodejs.org/">
 <img src="https://skillicons.dev/icons?i=nodejs" width="65"/>
 </a>
