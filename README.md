@@ -32,25 +32,7 @@ Meu objetivo é continuar evoluindo como engenheiro de software, aprofundando co
 
 <div align="center">
 
-<a href="https://www.php.net/">
-<img src="https://skillicons.dev/icons?i=php" width="65"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://symfony.com/">
-<img src="https://skillicons.dev/icons?i=symfony" width="65"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://angular.io/">
-<img src="https://skillicons.dev/icons?i=angular" width="65"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.typescriptlang.org/">
-<img src="https://skillicons.dev/icons?i=typescript" width="65"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://nodejs.org/">
-<img src="https://skillicons.dev/icons?i=nodejs" width="65"/>
-</a>
+<img src="https://skillicons.dev/icons?i=php,symfony,angular,typescript,nodejs,ts&theme=dark" />
 
 </div>
 
@@ -78,10 +60,16 @@ Meu objetivo é continuar evoluindo como engenheiro de software, aprofundando co
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-
 <a href="https://www.oracle.com/database/">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</a>
+
+<a href="https://www.postgresql.org/">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</a>
+
+<a href="https://www.microsoft.com/sql-server/">
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </a>
 
 </div>
@@ -111,6 +99,7 @@ Meu objetivo é continuar evoluindo como engenheiro de software, aprofundando co
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 &nbsp;&nbsp;&nbsp;
+
 <a href="mailto:dean.dadalt6@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
@@ -121,6 +110,7 @@ Meu objetivo é continuar evoluindo como engenheiro de software, aprofundando co
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
+
 <a href="mailto:dean.dadalt6@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
