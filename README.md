@@ -1,146 +1,137 @@
 <div align="center">
 
-# Dean Dadalt
+<!-- Header animado -->
 
-**Desenvolvedor Full Stack**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:0077b5&height=180&section=header&text=Dean%20Dadalt&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dean-dadalt-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dean.dadalt6@gmail.com)
+### 👨‍💻 Desenvolvedor Full Stack
 
-<p align="center">
-  Transformando requisitos complexos em soluções web eficientes, responsivas e escaláveis.
-  <br>
-  Atuando no desenvolvimento <strong>Full Stack</strong>, conectando interfaces, APIs,
-  regras de negócio e bancos de dados.
-</p>
+<a href="https://www.linkedin.com/in/dean-dadalt-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:dean.dadalt6@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;PHP+%7C+Symfony+%7C+Angular;APIs+REST+%7C+Banco+de+Dados;Construindo+solu%C3%A7%C3%B5es+web+eficientes" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 💻 No que atuo hoje
+## 🚀 Sobre mim
 
-Atualmente, atuo como **Desenvolvedor Full Stack**, com foco no ecossistema
-**Angular + PHP + Symfony** em ambiente corporativo.
+Sou **Desenvolvedor Full Stack** com experiência na criação, manutenção e evolução de aplicações web em ambientes corporativos.
 
-Minha atuação envolve tanto a construção de interfaces e experiências de usuário
-quanto o desenvolvimento de APIs, regras de negócio e integração com bancos de dados.
+Atualmente, atuo principalmente com **PHP, Symfony e Angular**, trabalhando desde a construção de interfaces até regras de negócio, APIs, integrações e persistência de dados.
+
+Tenho experiência com desenvolvimento de **APIs REST, Web Services, sistemas ERP e integração entre diferentes camadas da aplicação**, buscando sempre soluções organizadas, sustentáveis e alinhadas às necessidades do negócio.
+
+Também possuo experiência com **Node.js, TypeScript e Vue.js**, além de trabalhar com diferentes bancos de dados e ferramentas de desenvolvimento.
+
+Meu objetivo é continuar evoluindo como engenheiro de software, aprofundando conhecimentos em **arquitetura, boas práticas, qualidade de código e desenvolvimento de sistemas escaláveis**.
+
+---
+
+## 💻 Stack Principal
 
 <div align="center">
 
-<a href="https://www.php.net/" target="_blank">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<a href="https://www.php.net/">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </a>
-<a href="https://symfony.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />
+
+<a href="https://symfony.com/">
+<img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"/>
 </a>
-<a href="https://angular.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+
+<a href="https://angular.io/">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</a>
+
+<a href="https://www.typescriptlang.org/">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</a>
+
+<a href="https://nodejs.org/">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🛠️ Toolkit Técnico
+## 🧩 Tecnologias & Ferramentas
 
 ### 🎨 Front-end
 
-<p align="left">
+<div align="left">
 
-<a href="https://angular.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-</a>
-<a href="https://vuejs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</a>
-<a href="https://sass-lang.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
-</a>
-<a href="https://getbootstrap.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</a>
-<a href="https://vuetifyjs.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" alt="Vuetify" />
-</a>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
 
-</p>
+</div>
 
 ### ⚙️ Back-end
 
-<p align="left">
+<div align="left">
 
-<a href="https://www.php.net/" target="_blank">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-</a>
-<a href="https://symfony.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
-</a>
-<a href="https://laravel.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-</a>
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-</a>
-<a href="https://expressjs.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-</a>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 
-</p>
+</div>
 
 ### 🗄️ Banco de Dados
 
-<p align="left">
+<div align="left">
 
-<a href="https://www.oracle.com/database/" target="_blank">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
-</a>
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</a>
-<a href="https://www.microsoft.com/sql-server" target="_blank">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-</a>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 
-</p>
+</div>
 
 ### 🔧 Ferramentas & Infraestrutura
 
-<p align="left">
+<div align="left">
 
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</a>
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-</a>
-<a href="https://getcomposer.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" alt="Composer" />
-</a>
-<a href="https://vitejs.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-</a>
-<a href="https://www.npmjs.com/" target="_blank">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" />
-</a>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 
-</p>
+</div>
 
 ---
 
+## 🧠 Práticas & Conceitos
+
 <div align="center">
 
-<sub>
-  "Código limpo, interfaces eficientes e engenharia sólida."
-</sub>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square"/>
+<img src="https://img.shields.io/badge/SOLID-6A1B9A?style=flat-square"/>
+<img src="https://img.shields.io/badge/OOP-00599C?style=flat-square"/>
+<img src="https://img.shields.io/badge/MVC-444444?style=flat-square"/>
+<img src="https://img.shields.io/badge/Web%20Services-0077B5?style=flat-square"/>
+<img src="https://img.shields.io/badge/ERP-455A64?style=flat-square"/>
 
 </div>
+
+<!--
+WarriorAttHell/WarriorAttHell is a ✨ special ✨ repository because this README.md
+appears on your GitHub profile.
+-->
