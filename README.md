@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;PHP+%7C+Symfony+%7C+Node+%7C%7C+Angular+%7C+Vue;Docker+%7C+Azure+%7C+Git" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;PHP+%7C+Symfony+%7C+Node+%7C+Angular+%7C+Vue;Docker+%7C+Azure+%7C+Git" alt="Typing SVG" />
 
 </div>
 
