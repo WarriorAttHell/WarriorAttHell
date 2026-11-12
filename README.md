@@ -22,7 +22,7 @@ Desenvolvedor full stack desde 2022, trabalhando com sistemas corporativos: **re
 - 🏭 Desenvolvo funcionalidades de ponta a ponta a partir de user stories, como um módulo de **apontamento de produção** integrado ao ERP
 - 🐳 Aplicações em containers **Docker**, rodando na **Azure** ou on-premises
 - 🎓 Tecnólogo em Análise de Sistemas e cursando **Engenharia de Computação** (Unoesc)
-- 🌱 Estudando agora: arquitetura de software, qualidade de código e sistemas de baixo nível (C, sistemas operacionais, microcontroladores)
+- 🌱 Estudando agora: arquitetura de software e qualidade de código.
 
 ---
 
