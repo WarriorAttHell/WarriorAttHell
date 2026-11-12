@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor full stack desde 2022, trabalhando com sistemas corporativos: **regras de negócio, APIs e integrações**, do banco de dados até a interface.
+Desenvolvedor full stack com mais de 4 anos de experiência, trabalhando com sistemas corporativos: **regras de negócio, APIs e integrações**, do banco de dados até a interface.
 
 - 🔧 No dia a dia: **PHP 8 + Symfony** no back-end e **Angular** no front-end
 - 🔗 Integrações com **ERP e HCM (Senior)** via Web Services, levando dados de produção e RH entre sistemas
